@@ -1,4 +1,4 @@
-## ITI Internship(Ismailia) Java SE Development Track
+## ITI Internship (Ismailia) Java SE Development Track
   # we have covered the following topics:
 1- A brief refresh on Java Fundamentals.  
 2- OOP Concepts Using Java Programming.  
